@@ -1,0 +1,7 @@
+org/newappium/utils/AdbCommands.class
+org/newappium/pages/CountrySelectionPage.class
+org/newappium/utils/CapabilitiesBuilder.class
+org/newappium/core/DriverManager.class
+org/newappium/pages/BasePage.class
+org/newappium/utils/ConfigReader.class
+org/newappium/core/ServerManager.class
